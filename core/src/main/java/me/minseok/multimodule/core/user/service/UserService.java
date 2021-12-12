@@ -1,4 +1,4 @@
-package me.minseok.multimodule.user.service;
+package me.minseok.multimodule.core.user.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
