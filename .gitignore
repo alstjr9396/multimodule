@@ -36,3 +36,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+/api/src/main/resources/application-dev.yml
+/api/src/main/resources/application-security.yml
